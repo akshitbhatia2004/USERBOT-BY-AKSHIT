@@ -358,7 +358,7 @@ print(
 ║┣⪼ Group - @AKSHIT_USERBOT
 ║┣⪼ CREATOR - @The_AkshitBoy
 ║┣⪼ AKSHITBOT - {AKSHITversion}
-║┣⪼ ✨ 『🔱🇱 🇪 🇬 🇪 🇳 🇩 🔱』𝐔𝐬𝐞𝐫𝐛𝐨𝐭✨
+║┣⪼ ✨ 『🔱 A K S H I T 🔱』𝐔𝐬𝐞𝐫𝐛𝐨𝐭✨
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱"""
 )
