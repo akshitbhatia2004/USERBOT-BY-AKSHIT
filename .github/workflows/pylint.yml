@@ -30,6 +30,6 @@ jobs:
           commit_message: 'auto fixes'
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: AKSHIT-OS
+          commit_user_name: akshitbhatia2004
           commit_user_email: akshitbhatia2004@gmail.com 
-          commit_author: AKSHIT-OS <akshitbhatia2004@gmail.com>
+          commit_author: akshitbhatia2004 <akshitbhatia2004@gmail.com>
