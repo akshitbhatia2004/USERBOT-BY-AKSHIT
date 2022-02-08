@@ -25,7 +25,9 @@ pm_caption += f"┣»»»『{AKSHIT_mention}』«««\n"
 pm_caption += f"┣彡aͥksͣhͫᎥτ彡 ~ {AKSHITversion}\n"
 pm_caption += f"┣Lêɠêɳ̃d  ~ [Owner](https://t.me/akshitbhatia2004)\n"
 pm_caption += f"┣Support ~ [G𝖗ουρ](https://t.me/AKSHIT_Userbot)\n"
-pm_caption += f"┣Řepô    ~ [Rєρο](https://github.com/akshitbhatia2004/USERBOTBYAKSHIT)\n"
+pm_caption += (
+    f"┣Řepô    ~ [Rєρο](https://github.com/akshitbhatia2004/USERBOTBYAKSHIT)\n"
+)
 pm_caption += f"**╰────────────**\n"
 
 

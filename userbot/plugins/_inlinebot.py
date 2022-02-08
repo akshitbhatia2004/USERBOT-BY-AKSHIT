@@ -298,8 +298,18 @@ if Config.BOT_USERNAME is not None and tgbot is not None:
                 title="Repository",
                 text=f"**⚜ Akshit𝚊𝚛𝚢 𝙰𝚏 AkshitBot ⚜**",
                 buttons=[
-                    [Button.url("♥️ Tutorial ♥", "https://youtube.com/channel/UC-rJP_x5jyaksorv6acewqw")],
-                    [Button.url("📍 𝚁𝚎𝚙𝚘 📍", "https://github.com/akshitbhatia2004/USERBOTBYAKSHIT")],
+                    [
+                        Button.url(
+                            "♥️ Tutorial ♥",
+                            "https://youtube.com/channel/UC-rJP_x5jyaksorv6acewqw",
+                        )
+                    ],
+                    [
+                        Button.url(
+                            "📍 𝚁𝚎𝚙𝚘 📍",
+                            "https://github.com/akshitbhatia2004/USERBOTBYAKSHIT",
+                        )
+                    ],
                     [
                         Button.url(
                             "💞 Deploy 💞",
@@ -324,7 +334,8 @@ if Config.BOT_USERNAME is not None and tgbot is not None:
                 buttons=[
                     [
                         custom.Button.url(
-                            "⭐ Repo ⭐", "https://Github.com/akshitbhatia2004/USERBOTBYAKSHIT"
+                            "⭐ Repo ⭐",
+                            "https://Github.com/akshitbhatia2004/USERBOTBYAKSHIT",
                         ),
                         custom.Button.url(
                             "⚡ Repl ⚡",

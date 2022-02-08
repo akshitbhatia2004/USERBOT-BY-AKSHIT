@@ -75,7 +75,11 @@ async def help(event):
             buttons=[
                 [custom.Button.inline("Deploy your AkshitBot", data="fire")],
                 [Button.url("Help Me ❓", "https://t.me/AKSHIT_USERBOT")],
-                [Button.url("Github Repo ❓", "github.com/akshitbhatia2004/USERBOTBYAKSHIT")],
+                [
+                    Button.url(
+                        "Github Repo ❓", "github.com/akshitbhatia2004/USERBOTBYAKSHIT"
+                    )
+                ],
             ],
         )
 
