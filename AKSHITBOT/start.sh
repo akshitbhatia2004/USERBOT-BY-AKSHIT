@@ -24,6 +24,6 @@ echo """
 ╰╯╱╰┻╯╰┻━━┻╯╰┻┻━┻━━┻━━┻━╯
 """
 rm -rf USERBOT-BY-AKSHIT
-git clone https://github.com/akshitbhatia2004/USERBOT-BY-AKSHIT
+git clone https://github.com/akshitbhatia2004/USERBOT-BY-AKSHIT.git
 cd USERBOT-BY-AKSHIT
 python3 -m userbot
